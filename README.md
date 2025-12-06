@@ -23,11 +23,6 @@
 - 📫 Reach me at **sudilminthaka8797@gmail.com**
 - ⚡ Fun fact: I enjoy exploring new technologies and contributing to open source!
 
-## 🏆 GitHub Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudilmin&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=4" alt="sudilmin trophies" />
-</div>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
