@@ -17,8 +17,7 @@
 > "The best way to get started is to quit talking and begin doing." - Walt Disney
 
 - 🎓 Computer Science undergraduate passionate about technology
-- 🌱 Currently learning **Computer Architecture, Data Communication & Networking, Database Systems, AI**
-- 💻 Love building projects and solving complex problems
+- 💻 Love building projects and Iot Things
 - 📝 Regular contributor on [LinkedIn](https://lk.linkedin.com/in/sudil-minthaka-waduge-07899534a)
 - 📫 Reach me at **sudilminthaka8797@gmail.com**
 - ⚡ Fun fact: I enjoy exploring new technologies and contributing to open source!
@@ -72,9 +71,5 @@
   </a>
 </div>
 
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudilmin&theme=radical&hide_border=true&area=true" alt="sudilmin's activity graph" />
-</div>
 
 ---
