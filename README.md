@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudil Minthaka Waduge</h1>
-<h3 align="center">A passionate Computer Science undergraduate from Sri Lanka 🇱🇰</h3>
+<h3 align="center">A passionate Computer Science undergraduate from University Of Moratuwa</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sudilmin&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sudilmin" />
@@ -14,11 +14,10 @@
 
 ## About Me
 
-- 🎓 Computer Science undergraduate passionate about technology
-- 💻 Love coding,building projects and Iot Things
-- 📝 Regular contributor on [LinkedIn](https://lk.linkedin.com/in/sudil-minthaka-waduge-07899534a)
-- 📫 Reach me at **sudilminthaka8797@gmail.com**
-- ⚡ Fun fact: I enjoy exploring new technologies and contributing to open source!
+- Computer Science undergraduate passionate about technology
+-  Love coding,building projects and Iot Things
+-  see my projects and certifications on [LinkedIn](https://lk.linkedin.com/in/sudil-minthaka-waduge-07899534a)
+-  Reach me at **sudilminthaka8797@gmail.com**
 
 ## Tech Stack
 
@@ -41,8 +40,6 @@
 🏅 **Postman Student Expert**  
 Issued by Postman  
 <img src="https://badges.parchment.com/public/assertions/7y1KiCmCRxOITZ8OG7ByQQ/image" width="100"/>
-
-
 
 </div>
 
