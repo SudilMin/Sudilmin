@@ -12,17 +12,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full+Stack+Developer;Problem+Solver;Always+Learning!" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
-
-> "The best way to get started is to quit talking and begin doing." - Walt Disney
+## About Me
 
 - 🎓 Computer Science undergraduate passionate about technology
-- 💻 Love building projects and Iot Things
+- 💻 Love coding,building projects and Iot Things
 - 📝 Regular contributor on [LinkedIn](https://lk.linkedin.com/in/sudil-minthaka-waduge-07899534a)
 - 📫 Reach me at **sudilminthaka8797@gmail.com**
 - ⚡ Fun fact: I enjoy exploring new technologies and contributing to open source!
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
