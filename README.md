@@ -29,10 +29,13 @@
 <div align="center">
 
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,php" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript" />
 
 ### Frontend Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,quasar" />
+
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quasar/quasar-original.svg" width="48" />
+
 
 ### Backend Frameworks
 <img src="https://skillicons.dev/icons?i=django" />
@@ -46,18 +49,14 @@
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-</div>
-
----
-
-## 🏅 Certifications
+### Badges
 
 **Postman Student Expert**  
 Issued by Postman  
 
 <img src="https://badges.parchment.com/public/assertions/7y1KiCmCRxOITZ8OG7ByQQ/image" width="80"/>
 
----
+</div>
 
 ## Connect with Me
 
