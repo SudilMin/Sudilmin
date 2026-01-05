@@ -44,7 +44,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" />
 
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
