@@ -12,19 +12,30 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full+Stack+Developer;Problem+Solver;Always+Learning!" alt="Typing SVG" />
 </div>
 
-## About Me
+---
 
-- Computer Science undergraduate passionate about technology
--  Love coding,building projects and Iot Things
--  see my projects and certifications on [LinkedIn](https://lk.linkedin.com/in/sudil-minthaka-waduge-07899534a)
--  Reach me at **sudilminthaka8797@gmail.com**
+## 👨‍💻 About Me
 
-## Tech Stack
+- Computer Science undergraduate passionate about technology  
+- Love coding, building projects, and IoT things  
+- See my projects and certifications on  
+  🔗 https://lk.linkedin.com/in/sudil-minthaka-waduge-07899534a  
+- Reach me at **sudilminthaka8797@gmail.com**
+
+---
+
+## 🧰 Tech Stack
 
 <div align="center">
 
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,php" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,php" />
+
+### Frontend Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,quasar" />
+
+### Backend Frameworks
+<img src="https://skillicons.dev/icons?i=django" />
 
 ### Web Technologies
 <img src="https://skillicons.dev/icons?i=html,css,js" />
@@ -33,37 +44,39 @@
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,vscode,github" />
-
-### Certifications
-
-🏅**Postman Student Expert**
-
-Issued by Postman  
-<img src="https://badges.parchment.com/public/assertions/7y1KiCmCRxOITZ8OG7ByQQ/image" width="100"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
+---
+
+## 🏅 Certifications
+
+**Postman Student Expert**  
+Issued by Postman  
+
+<img src="https://badges.parchment.com/public/assertions/7y1KiCmCRxOITZ8OG7ByQQ/image" width="80"/>
+
+---
 
 ## Connect with Me
 
 <div align="center">
   <a href="https://linkedin.com/in/sudil-minthaka-waduge-07899534a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://fb.com/sudil-minthaka-waduge" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://instagram.com/sudil-minthaka-waduge" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.hackerrank.com/sudilmin" target="_blank">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
   <a href="https://www.leetcode.com/sudilmin" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=d16c06"/>
   </a>
 </div>
-
 
 ---
