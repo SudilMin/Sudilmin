@@ -42,7 +42,7 @@
 ## Certifications
 🏅 **Postman Student Expert**  
 Issued by Postman  
-<img src="https://badges.parchment.com/public/assertions/7y1KiCmCRxOITZ8OG7ByQQ/image" width="90"/>
+<img src="https://badges.parchment.com/public/assertions/7y1KiCmCRxOITZ8OG7ByQQ/image" width="100"/>
 
 
 
@@ -59,7 +59,7 @@ Issued by Postman
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sudilmin&theme=radical&hide_border=true" alt="sudilmin's streak stats" />
 </div>
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <div align="center">
   <a href="https://linkedin.com/in/sudil-minthaka-waduge-07899534a" target="_blank">
