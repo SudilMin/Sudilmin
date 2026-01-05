@@ -35,9 +35,8 @@
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,vscode,github" />
 
-
 ## Certifications
-🏅Postman Student Expert  
+🏅**Postman Student Expert**
 Issued by Postman  
 <img src="https://badges.parchment.com/public/assertions/7y1KiCmCRxOITZ8OG7ByQQ/image" width="100"/>
 
