@@ -38,11 +38,12 @@
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,vscode,github" />
 
-## Certifications
 
+## Certifications
 🏅 **Postman Student Expert**  
 Issued by Postman  
-<img src ="https://badges.parchment.com/public/assertions/7y1KiCmCRxOITZ8OG7ByQQ/image"/>
+<img src="https://badges.parchment.com/public/assertions/7y1KiCmCRxOITZ8OG7ByQQ/image" width="90"/>
+
 
 
 </div>
