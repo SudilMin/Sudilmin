@@ -48,16 +48,6 @@ Issued by Postman
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sudilmin&show_icons=true&theme=radical&hide_border=true" alt="sudilmin's GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudilmin&layout=compact&theme=radical&hide_border=true" alt="sudilmin's top languages" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sudilmin&theme=radical&hide_border=true" alt="sudilmin's streak stats" />
-</div>
 
 ## Connect with Me
 
