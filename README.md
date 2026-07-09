@@ -21,12 +21,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Undergraduate at **University of Moratuwa**
-- 💻 Passionate about **Embedded Systems, Robotics, IoT, and Full Stack Development**
-- 🌱 Currently exploring **ROS 2, Computer Vision, Artificial Intelligence, and PCB Design**
-- 🚀 Building software and hardware solutions for real-world problems
-- 📫 **Email:** **sudilminthaka8797@gmail.com**
-- 💼 **LinkedIn:** https://linkedin.com/in/sudil-minthaka-waduge-07899534a
+- Computer Science Undergraduate at **University of Moratuwa**
+- Passionate about **Embedded Systems, Robotics, IoT, and Full Stack Development**
+- Currently exploring **ROS 2, Computer Vision, Artificial Intelligence, and PCB Design**
+- Building software and hardware solutions for real-world problems
+- **Email:** **sudilminthaka8797@gmail.com**
+- **LinkedIn:** https://linkedin.com/in/sudil-minthaka-waduge-07899534a
 
 ---
 
