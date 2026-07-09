@@ -1,81 +1,140 @@
 <h1 align="center">Hi 👋, I'm Sudil Minthaka Waduge</h1>
-<h3 align="center">A passionate Computer Science undergraduate from University Of Moratuwa</h3>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudilmin&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sudilmin" />
-  <img src="https://img.shields.io/github/followers/sudilmin?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-</div>
+<p align="center">
+  <strong>Computer Science Undergraduate at the University of Moratuwa</strong>
+</p>
 
-<br/>
+<p align="center">
+  Embedded Systems • Robotics • IoT • Full Stack Development
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=480&lines=Computer+Science+Student;Full+Stack+Developer;Problem+Solver;IOT,Robotics+Embadded+System+Enthusiast!" alt="Typing SVG" />
-</div>
+<p align="center">
+  <a href="https://github.com/sudilmin">
+    <img src="https://komarev.com/ghpvc/?username=sudilmin&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  </a>
+  <a href="https://github.com/sudilmin?tab=followers">
+    <img src="https://img.shields.io/github/followers/sudilmin?label=Followers&style=flat-square" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- Computer Science undergraduate passionate about technology  
-- Love coding, building projects, and IoT things  
-- See my projects and certifications on  
-  🔗 https://lk.linkedin.com/in/sudil-minthaka-waduge-07899534a  
-- Reach me at **sudilminthaka8797@gmail.com**
+- 🎓 Computer Science Undergraduate at **University of Moratuwa**
+- 💻 Passionate about **Embedded Systems, Robotics, IoT, and Full Stack Development**
+- 🌱 Currently exploring **ROS 2, Computer Vision, Artificial Intelligence, and PCB Design**
+- 🚀 Building software and hardware solutions for real-world problems
+- 📫 **Email:** **sudilminthaka8797@gmail.com**
+- 💼 **LinkedIn:** https://linkedin.com/in/sudil-minthaka-waduge-07899534a
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-<div align="center">
+### 💻 Languages
 
-### Programming Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript" />
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
+</p>
 
-### Frontend Frameworks & Libraries
+### 🌐 Frontend
 
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quasar/quasar-original.svg" width="48" />
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quasar/quasar-original.svg" width="50"/>
+</p>
 
+### ⚙️ Backend
 
-### Backend Frameworks
-<img src="https://skillicons.dev/icons?i=django" />
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50"/>
+</p>
 
-### Web Technologies
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+### 🗄️ Databases
 
-### Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" />
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+<img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="50"/>
+</p>
 
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+### 🛠️ Tools
 
-### Badges
-
-**Postman Student Expert**  
-Issued by Postman  
-
-<img src="https://badges.parchment.com/public/assertions/7y1KiCmCRxOITZ8OG7ByQQ/image" width="80"/>
-
-</div>
-
-## Connect with Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/sudil-minthaka-waduge-07899534a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://fb.com/sudil-minthaka-waduge" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/sudil-minthaka-waduge" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/sudilmin" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-  <a href="https://www.leetcode.com/sudilmin" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=d16c06"/>
-  </a>
-</div>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/>
+</p>
 
 ---
+
+## 🏆 Certifications
+
+<p align="center">
+<a href="https://badges.parchment.com/public/assertions/7y1KiCmCRxOITZ8OG7ByQQ">
+<img src="https://img.shields.io/badge/Postman-Student%20Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sudilmin&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudilmin&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudilmin&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://github.com/sudilmin">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+</a>
+
+<a href="https://linkedin.com/in/sudil-minthaka-waduge-07899534a">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
+</a>
+
+<a href="https://www.hackerrank.com/sudilmin">
+<img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="42"/>
+</a>
+
+<a href="https://leetcode.com/sudilmin">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="42"/>
+</a>
+
+<a href="https://instagram.com/sudil-minthaka-waduge">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="42"/>
+</a>
+
+<a href="https://facebook.com/sudil-minthaka-waduge">
+<img src="https://cdn.simpleicons.org/facebook/1877F2" width="42"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<i>"Building technology that solves real-world problems."</i>
+</p>
